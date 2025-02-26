@@ -36,3 +36,25 @@ npm run dev  # 🚀 Start the development server
 ---
 
 ⭐ **If you find this project useful, don't forget to give it a star!** ⭐ 🚀✨ 
+
+## Home Page
+![image](https://github.com/user-attachments/assets/3a6e6a8e-0f0e-4437-aa8c-c72d5005ebf5)
+
+## Form 
+![image](https://github.com/user-attachments/assets/b28163e8-04a9-47e9-b85a-dc3e39496663)
+
+## GET & POST API Implementation
+![image](https://github.com/user-attachments/assets/108064c6-3c6d-450c-955e-a6677e6944bf)
+
+## Modal Functionaly to add new data
+![image](https://github.com/user-attachments/assets/37da16d3-82bc-4bcb-a08c-1cfcb9b05e40)
+
+## Hardcoded data function to add more data on local
+![image](https://github.com/user-attachments/assets/d2bb4475-ddea-4cca-a5d3-943ba8bfd37e)
+
+
+
+
+
+
+
