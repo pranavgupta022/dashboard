@@ -24,11 +24,15 @@ A **modern and dynamic** **Dashboard** built using **React + Vite** ⚛️⚡, f
 ### 📥 Clone the Repository  
 ```sh
 git clone https://github.com/your-username/dashboard-project.git
-
-
-## 🚀 Setup & Run
-..sh
 cd ./dashboard-main  # 📂 Navigate to project folder
 npm install  # 📦 Install dependencies
 npm install react-router-dom recharts react-icons  # 🔧 Install required libraries
 npm run dev  # 🚀 Start the development server
+```
+
+##💬 Need Help?  
+📩 For any queries, feedback, or collaboration, feel free to reach out to me at **📧 pranavgupta022@gmail.com**.  
+
+---
+
+⭐ **If you find this project useful, don't forget to give it a star!** ⭐ 🚀✨ 
